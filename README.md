@@ -1,6 +1,7 @@
 # Luther - Open Voice Recognition
 Free &amp; open speech to text system, based on PocketSphinx which uses highly optimised, dynamically trained models.
 
+![alt tag](luther.png)
 
 # To Do
 
